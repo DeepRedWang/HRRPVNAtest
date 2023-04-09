@@ -16,7 +16,7 @@ conda activate Pyvisa
 python -m pip install -r requirements.txt
 ```
 
-## File analysis by [==Academic_ChatGPT==](https://github.com/binary-husky/chatgpt_academic)
+## File analysis by [`Academic_ChatGPT`](https://github.com/binary-husky/chatgpt_academic)
 | File Name| Main Function | 
 | --- | --- | 
 |pna_ctl.py |Connects to PNA, sets experiment parameters, collects data, and saves data to csv files | 
